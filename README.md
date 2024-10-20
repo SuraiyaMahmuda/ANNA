@@ -80,6 +80,7 @@ Technology Stack:
 •	APIs: Google Maps API for geolocation and navigation.
 •	Authentication: Firebase Authentication for secure login and user verification.
 
+
 Implementation Plan:
 1.	Phase 1: Design and Planning:
 •	Finalize the app’s UI/UX design and create wireframes for each activity.
