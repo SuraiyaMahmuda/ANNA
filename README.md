@@ -13,7 +13,9 @@ Objectives:
 Target Audience:
 
 •	Individuals and Families: People who have surplus food and wish to donate it to others in need.
+
 •	Non-Profit Organizations: Community groups and food banks looking to streamline food distribution efforts.
+
 •	Students and Social Workers: Those involved in community outreach and support programs.
 
 Key Features:
@@ -37,8 +39,11 @@ Key Features:
 4.	Food Donation Process:
 
 •	In the "Donate" section of the app, we can easily pin our location on the map to indicate the availability of food donations. The following information is required when creating a food pin:
+
 	Food Item Name: Specify the name of the food item we wish to donate(e.g. "Vegetable Soup," "Rice and Chicken").
+
 	Food Item Description: Provide a brief description or additional details about the donated food(e.g. "Freshly cooked, serves 4 people, vegetarian").
+
 	Phone Number Visibility: Choose whether or not we want to display our phone number to receivers. If we choose to hide our phone number, Anna can facilitate communication through a temporary masked number, allowing secure interactions without revealing our personal contact information.
 
 •	Users can pin their location on an interactive map to indicate the availability of food donations.
@@ -117,6 +122,7 @@ Implementation Plan:
 •	Finalize the app’s UI/UX design and create wireframes for each activity.
 
 •	Define database structure and Firebase integration requirements.
+
 2.	Phase 2: Development:
 
 •	Implement user registration, authentication, and email verification.
@@ -126,16 +132,19 @@ Implementation Plan:
 •	Integrate the Food Map with real-time updates and advanced filtering.
 
 •	Implement the History Activity and export functionality.
+
 3.	Phase 3: Testing:
 
 •	Conduct thorough testing of user registration, food donation, and map navigation features.
 
 •	Perform User Acceptance Testing (UAT) to gather feedback and refine the app.
+
 4.	Phase 4: Deployment:
 
 •	Deploy the app on the Google Play Store for Android users.
 
 •	Create marketing materials to promote the app and encourage community participation.
+
 5.	Phase 5: Maintenance and Updates:
 
 •	Monitor app performance and address any bugs or issues.
