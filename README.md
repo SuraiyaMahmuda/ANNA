@@ -117,6 +117,7 @@ Technology Stack:
 
 
 Implementation Plan:
+
 Phase 1: Design and Planning:
 
 •	Finalize the app’s UI/UX design and create wireframes for each activity.
