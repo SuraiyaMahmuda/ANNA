@@ -117,13 +117,13 @@ Technology Stack:
 
 
 Implementation Plan:
-1.	Phase 1: Design and Planning:
+Phase 1: Design and Planning:
 
 •	Finalize the app’s UI/UX design and create wireframes for each activity.
 
 •	Define database structure and Firebase integration requirements.
 
-2.	Phase 2: Development:
+Phase 2: Development:
 
 •	Implement user registration, authentication, and email verification.
 
@@ -133,19 +133,19 @@ Implementation Plan:
 
 •	Implement the History Activity and export functionality.
 
-3.	Phase 3: Testing:
+Phase 3: Testing:
 
 •	Conduct thorough testing of user registration, food donation, and map navigation features.
 
 •	Perform User Acceptance Testing (UAT) to gather feedback and refine the app.
 
-4.	Phase 4: Deployment:
+Phase 4: Deployment:
 
 •	Deploy the app on the Google Play Store for Android users.
 
 •	Create marketing materials to promote the app and encourage community participation.
 
-5.	Phase 5: Maintenance and Updates:
+Phase 5: Maintenance and Updates:
 
 •	Monitor app performance and address any bugs or issues.
 
